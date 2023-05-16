@@ -12,23 +12,30 @@ body {
   color: rgb(218, 32, 54);
   text-align: center;
 }
-/* /* img {
-    border: 30px rgb(218, 32, 184);
-    border-style: solid; */
 
-/* } */
-*/ .friend-picture {
+ .friend-picture {
   border: 30px rgb(218, 32, 184);
   border-style: solid;
   float: right;
 }
-.fit-picture {
-  float: left;
+.container {
+  margin: 150px auto;
   padding: 15px;
   width: 350px;
+}
+img {
+  float: left;
+  width: 300px;
+  height: 260px;
   background: rgb(0, 38, 255);
+
+
+}
+.text {
+  text-align: justify;
+  font-family: verdana;
+  float: none;
+
 }
 
-/* section {
-    display: flex;
-} */
+
