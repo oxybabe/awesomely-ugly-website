@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+  color: rgb(218, 32, 184);
+  box-sizing: border-box;
+}
+
+body {
+  background: greenyellow;
+  font-family: monospace;
+  font-size: 20px;
+  font-display: ;
+  color: rgb(218, 32, 54);
+  text-align: center;
+
+}
+/* /* img {
+    border: 30px rgb(218, 32, 184);
+    border-style: solid; */
+
+/* } */ */
+
+.friend-picture {
+    border: 30px rgb(218, 32, 184);
+    border-style: solid;
+    float: right;
+
+}
+#fit-picture {
+
+  width: 400 px;
+
+  #intro {
+    float: left;
+    width: 350px;
+    background: rgb(0, 38, 255);
+  }
+
+}
+
+/* section {
+    display: flex;
+} */
